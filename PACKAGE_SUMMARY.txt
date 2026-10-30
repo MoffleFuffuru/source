@@ -1,0 +1,7 @@
+Original archive: StellaV5-GPT-Review-20261029-Complete.zip (not modified in this export)
+Selected files: 227
+Approx selected text lines: 40,887
+Selected source bytes: 1,966,394
+Directories: Mako.pyw=1, README.md=1, avatar=64, backend=9, config.example.json=1, docs=9, main.py=1, mako=69, requirements.txt=1, tests=46, tools=25
+Exclusions: runtime memory, Discord logs, private config, bytecode, audio and model assets, VRM and VRMA, non-source vendor trees, internal prior audit checkpoint.
+Source/version caveat: dialogue.py source vs newer compiled artifact as documented in original ZIP.
