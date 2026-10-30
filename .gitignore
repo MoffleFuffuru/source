@@ -1,0 +1,42 @@
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+config.json
+config.local.json
+*credentials*
+*secret*
+*.key
+*.pem
+*.p12
+
+# Runtime data and personal records
+/data/
+/memory/
+/recovery-artifacts/
+/logs/
+recordings/
+transcripts/
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.wav
+*.mp3
+*.mov
+*.mp4
+*.vrm
+*.vrma
+
+# Generated files, dependencies, and caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+dist/
+build/
+.coverage
+.DS_Store
+Thumbs.db

@@ -1,0 +1,18 @@
+Pillow>=10.0
+certifi>=2026.2.25
+numpy>=1.26
+sounddevice>=0.4.7
+soundfile>=0.12
+faster-whisper>=1.0
+moonshine-voice>=0.1.5
+msgpack>=1.1
+aiohttp>=3.12
+qwen-tts>=0.0.5
+pyttsx3>=2.90
+kokoro==0.9.4
+misaki[en]>=0.9.4
+discord.py[voice]>=2.7.1
+funasr>=1.2.6
+silero-vad[onnx-cpu]==6.2.3
+# Temporary DAVE receive branch; remove this pin once upstream publishes DAVE receive support.
+discord-ext-voice-recv @ git+https://github.com/imayhaveborkedit/discord-ext-voice-recv.git@refs/pull/62/head
