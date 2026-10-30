@@ -1,0 +1,1364 @@
+[
+  {
+    "path": "Mako.pyw",
+    "bytes": 779,
+    "sha256": "916be60bad4c44d8ffcd3243d7ee4bac3aa94472ecb8a4bfbd446d55d79e7016",
+    "lines": 24
+  },
+  {
+    "path": "README.md",
+    "bytes": 3163,
+    "sha256": "7a2a0e620661c5d01d7f4a03b3da96c0c553826ebbdebb9b4480e15937e6163e",
+    "lines": 73
+  },
+  {
+    "path": "avatar/README.md",
+    "bytes": 2228,
+    "sha256": "e8a94148431119105017b8d4fca60d272b30c35e7e67a0811e2d074410775fc9",
+    "lines": 45
+  },
+  {
+    "path": "avatar/assets/movement/NOTICE.md",
+    "bytes": 72412,
+    "sha256": "ccc0be51ac51b0535823f7e33ee9e89830cf0533bdfbac44ec91ead340bcac2c",
+    "lines": 1088
+  },
+  {
+    "path": "avatar/assets/movement/ROCKETBOX-LICENSE.md",
+    "bytes": 1066,
+    "sha256": "17474e386e0b9e1a700cc3d06b2b0882a2c376d9c6b49c7f8274409b8f8d2352",
+    "lines": 21
+  },
+  {
+    "path": "avatar/assets/movement/overte/NOTICE.md",
+    "bytes": 72412,
+    "sha256": "ccc0be51ac51b0535823f7e33ee9e89830cf0533bdfbac44ec91ead340bcac2c",
+    "lines": 1088
+  },
+  {
+    "path": "avatar/assets/movement/overte/README.hanami.md",
+    "bytes": 42327,
+    "sha256": "f685275736396843a5a2e1bb43493983386a92b7207d21f6262b3bb29d14462d",
+    "lines": 545
+  },
+  {
+    "path": "avatar/assets/movement/overte/README.md",
+    "bytes": 1508,
+    "sha256": "7c97042f8582220e4626d9e4991d583aa9c908ea49f43509e60aa4ebd5fb7cab",
+    "lines": 29
+  },
+  {
+    "path": "avatar/assets/movement/overte/angry-2.vrma.source.json",
+    "bytes": 412,
+    "sha256": "ba0676cc4224f5bfbe83ec2f5c5377f605ce33c3691fc7f275b5511321cae053",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/angry.vrma.source.json",
+    "bytes": 406,
+    "sha256": "c57a729895417686fb97d1bc97549da2c61b956579e9303190b2c36c084489cd",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/happy-2.vrma.source.json",
+    "bytes": 412,
+    "sha256": "b3482172d9c604050e81d4cd8a2c53b3e68fcd7723441e0700f2b5ddd55b31c2",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/happy-3.vrma.source.json",
+    "bytes": 412,
+    "sha256": "5912a77a325f74367ecd8c8cae17eba37cace816aeb08f67933b939d39612217",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/happy-6.vrma.source.json",
+    "bytes": 412,
+    "sha256": "e9caab1f2e74339af5d4adbd484e96e5782e65900f7735c936f200b74454f76d",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/happy.vrma.source.json",
+    "bytes": 406,
+    "sha256": "3d4bbe7907df03aa504a6162692e05bed3b8083e6ad1e2abdbdc5cc0c232452e",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle-2.vrma.source.json",
+    "bytes": 409,
+    "sha256": "bdc1f95a973e74db075e1c8f80679cf6bcc8ab026ae0620f9988a309a0bfb306",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle-3.vrma.source.json",
+    "bytes": 409,
+    "sha256": "bb0ef21100e3f371c504e61fc35817884ab02b9acea6a69ea243dad6a0c50ade",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle-4.vrma.source.json",
+    "bytes": 409,
+    "sha256": "ca062d314fc111d55e0a18b5262ffc8ced7c061d8ae7c83b1bb224bcd9725c05",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle-7.vrma.source.json",
+    "bytes": 409,
+    "sha256": "874253500bf01726d6fcd398945fa1b8ac10f2e9d35d0e445748eed0ca31c8c1",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle-talking-4.vrma.source.json",
+    "bytes": 433,
+    "sha256": "086451458e428f5c22235e8c56ba474944a1091706a056fd79e681379d4968dd",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle-talking-5.vrma.source.json",
+    "bytes": 433,
+    "sha256": "9c470d1883a6c8e805998312aec2d4a0b69e00c88d60cb0825e710cf93d3e92d",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle-talking-6.vrma.source.json",
+    "bytes": 433,
+    "sha256": "96d1c4c048a46d1e674e372095190132bc16430f450aa02e360b10910dffc37b",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle-talking-7.vrma.source.json",
+    "bytes": 433,
+    "sha256": "d213c6a4498b0ccd8f91046cd8c511b9b1af5464117ad98f131770be3ba92b6b",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle-talking.vrma.source.json",
+    "bytes": 427,
+    "sha256": "98f52657083f30fcbebf377d3dd57e34cb8091c78a2fa4aaa071cbc0697f7d18",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/idle.vrma.source.json",
+    "bytes": 403,
+    "sha256": "3f24bcfc31390b11db7aea933fbb00365dc683868fd29ef80ab04e7c7e4104ab",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/neutral.vrma.source.json",
+    "bytes": 412,
+    "sha256": "94e12f0f1611e9aaadee86a4311dd532e24abcbe124440cdfcba0b9dbc67607f",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/nod-2.vrma.source.json",
+    "bytes": 406,
+    "sha256": "a4ac5ec014b047186e8cb03c837d259166933f6338c6a324f21f27d8b89c09cd",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/nod-3.vrma.source.json",
+    "bytes": 406,
+    "sha256": "dbbf5b8b3f050fba442ccc2e9fa31f3e19fb71422da121f6ead33e512420063a",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/nod-4.vrma.source.json",
+    "bytes": 406,
+    "sha256": "72c683f1abc2de9b47f62b6bb82c30afeb233185929168f5397c3a9c16a2b029",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/nod-5.vrma.source.json",
+    "bytes": 406,
+    "sha256": "45ae493800daab12709b7fd13a3609690cdc3db67eb87d0393f93c1b073d0bf0",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/nod.vrma.source.json",
+    "bytes": 400,
+    "sha256": "f06b963ceefe454a242facc6e7a083daea69cf039742f256f6df8a904bc83880",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/raise-hand-2.vrma.source.json",
+    "bytes": 427,
+    "sha256": "c35955cbe5fc7d35735230aa30c6d77e7094c10c6a92fc6c53f8ad28b83cc5c7",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/raise-hand.vrma.source.json",
+    "bytes": 421,
+    "sha256": "e2080536314fa19a38c8f42e969f46b9c913d5b2d7bdefc8287369d61c4e38a2",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/relaxed-2.vrma.source.json",
+    "bytes": 418,
+    "sha256": "73b68cc860868f0301fa287b6106919941f635adf7b0b4fd6f3ed6ddaa276f5b",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/relaxed-3.vrma.source.json",
+    "bytes": 418,
+    "sha256": "30435104bece1d0523c8264b284c77b0fc06e379b470dacfe37b24fee63b395b",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/relaxed.vrma.source.json",
+    "bytes": 412,
+    "sha256": "63e9344e1c874e9aa2ff37a9025dd993b10eaec5bbab8183ac45d4e01f043d01",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/sad.vrma.source.json",
+    "bytes": 400,
+    "sha256": "7931992c3bacdabff661b5450f77ee78dcc218a9e5feb12ee7d25fd7d4e65226",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/shake.vrma.source.json",
+    "bytes": 406,
+    "sha256": "092b8aa2e43bac13f549764cc0ab6da3f5d3b221a95e96dda2a9168642c40248",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/sources.json",
+    "bytes": 15063,
+    "sha256": "933154f2ea785d8ab84afac57b1f0897b13e820722867506557f188a360711f8",
+    "lines": 334
+  },
+  {
+    "path": "avatar/assets/movement/overte/think-2.vrma.source.json",
+    "bytes": 412,
+    "sha256": "c9ee81056798a76abf9aaeab0de652687d39669b5e25c9d2784f778514ed5a66",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/overte/think.vrma.source.json",
+    "bytes": 406,
+    "sha256": "65185c6f8401cf931ee5b04f88f074942e974162a3b01a35b9928102b59d9ff1",
+    "lines": 10
+  },
+  {
+    "path": "avatar/assets/movement/rocketbox-plan.json",
+    "bytes": 21945,
+    "sha256": "8d8aa36b43f0267bc719818158928729fa42e480717ac94a2ae70b660f7af051",
+    "lines": 963
+  },
+  {
+    "path": "avatar/assets/movement/sources.json",
+    "bytes": 14732,
+    "sha256": "76d5268990d0badfa193e293ca3cb4be03a7651f2db063b84d0cdc7d61d6efcc",
+    "lines": 359
+  },
+  {
+    "path": "avatar/autonomous-motion.mjs",
+    "bytes": 18622,
+    "sha256": "d20adef70d548c5d6211525e64d3a3fd2a6aeda9fae19e8cf325b565b15a88b7",
+    "lines": 320
+  },
+  {
+    "path": "avatar/captured-idle.mjs",
+    "bytes": 1747,
+    "sha256": "208264f1843ca25c2fdd2b8fc035140985d8fc14554a12d07a351486b96ef1fd",
+    "lines": 40
+  },
+  {
+    "path": "avatar/embodiment.mjs",
+    "bytes": 19212,
+    "sha256": "b72647f6468e34223fae2bc98e95bb0910f0862f35d4e3b8fbec07d4a54c9407",
+    "lines": 339
+  },
+  {
+    "path": "avatar/index.html",
+    "bytes": 12388,
+    "sha256": "7a5f468e5e8571ae8e943d636a3a193e0c1b06aa56b17c62338ed4f645e6e230",
+    "lines": 115
+  },
+  {
+    "path": "avatar/lab-bridge.mjs",
+    "bytes": 3100,
+    "sha256": "39bbe6290fc10255a480e85a6988908bced4f52dc3e0e3ec36f71da09c04314b",
+    "lines": 35
+  },
+  {
+    "path": "avatar/lip-sync.mjs",
+    "bytes": 2397,
+    "sha256": "7f207cc61b61d4b6c8008b1d663b997920d568e3436a7af995ddf30ea13b4f37",
+    "lines": 62
+  },
+  {
+    "path": "avatar/main.cjs",
+    "bytes": 13341,
+    "sha256": "359f3638c2548fd7a9d23e41691e18800e4861002fb890eb598376fc009b81c2",
+    "lines": 195
+  },
+  {
+    "path": "avatar/motion.mjs",
+    "bytes": 206,
+    "sha256": "acd1c474a0be35e40f5617f9a0aff70bec6c9ae59d92d4c28511fd2921b302cf",
+    "lines": 6
+  },
+  {
+    "path": "avatar/movement-catalog.mjs",
+    "bytes": 3431,
+    "sha256": "57be2befe766a0b05dbe5b6d601b8f9c05acb75e70ec5971b31c1375094b7433",
+    "lines": 53
+  },
+  {
+    "path": "avatar/onboarding.mjs",
+    "bytes": 21989,
+    "sha256": "f69b4ecc827c66e13e15537b442686b23d060a994b2b7ff580f6ee133e51670c",
+    "lines": 268
+  },
+  {
+    "path": "avatar/package-lock.json",
+    "bytes": 36267,
+    "sha256": "2a85fad80f2d08a5b1abf3f5a5afce9394ea36aeb053b1646f3339f96b2bd15f",
+    "lines": 945
+  },
+  {
+    "path": "avatar/package.json",
+    "bytes": 328,
+    "sha256": "b26288bd8b2029dc4125d111e3995beac46a188eb550fd32f702a1c532aa78bf",
+    "lines": 9
+  },
+  {
+    "path": "avatar/preload.cjs",
+    "bytes": 1062,
+    "sha256": "fbaac528cf6b8c763f188a4d76c6658299f021e2f51805ac7ccebb4df6cff7c6",
+    "lines": 17
+  },
+  {
+    "path": "avatar/protocol.cjs",
+    "bytes": 1978,
+    "sha256": "5e401c8329c754fcddd83f47825c5b8e8c49fcbaf87c8406122d8ac319d26891",
+    "lines": 33
+  },
+  {
+    "path": "avatar/style.css",
+    "bytes": 19908,
+    "sha256": "cbf40007e122d19104a5ecd5119920d5ff8c30d84c7da758495d1a8e56c169db",
+    "lines": 112
+  },
+  {
+    "path": "avatar/tests/captured-idle.test.cjs",
+    "bytes": 5131,
+    "sha256": "785431095759cc393722a68a3f35e5edd382442e48e48cdae0b93af95e06b334",
+    "lines": 81
+  },
+  {
+    "path": "avatar/tests/embodiment.test.cjs",
+    "bytes": 11192,
+    "sha256": "d2dc9c6d322cafff034a1136333412c6e81c3d738dff6e02f44f6a274c6ce425",
+    "lines": 187
+  },
+  {
+    "path": "avatar/tests/lip-sync.test.cjs",
+    "bytes": 3644,
+    "sha256": "48329de2668a89f013bb0b5a6a65fca26eb8bac8e459e3efcde74c024647932b",
+    "lines": 98
+  },
+  {
+    "path": "avatar/tests/motion.test.cjs",
+    "bytes": 686,
+    "sha256": "e50013c5dc28a472616c61b0939313dd3a5350f9dc8a067ff7bc5d95ee154fa0",
+    "lines": 16
+  },
+  {
+    "path": "avatar/tests/protocol.test.cjs",
+    "bytes": 2964,
+    "sha256": "0395c61e0627378d029049bc52ca725d0591516943e6c900942c730843dc0023",
+    "lines": 53
+  },
+  {
+    "path": "avatar/tests/sage-overlay.test.cjs",
+    "bytes": 1694,
+    "sha256": "874c750a1caaee82482d7a63cdbcbf62a751156a456514365e3c9c75ceea3ae8",
+    "lines": 35
+  },
+  {
+    "path": "avatar/tests/settings-binding.test.cjs",
+    "bytes": 1686,
+    "sha256": "0b8ddf049bd85734c8f5b1a49e93275c58875415b2fd81ea1d4d71659b34520c",
+    "lines": 33
+  },
+  {
+    "path": "avatar/tools/acquire-overte.mjs",
+    "bytes": 4941,
+    "sha256": "f9840f5bbc68b7abd76d28a6ebd66d5932af7b7102575e072387649af9524b65",
+    "lines": 100
+  },
+  {
+    "path": "avatar/viewer.js",
+    "bytes": 44382,
+    "sha256": "f553ff476daafc4f937cf2c0eb3a2ed9134eb900c35f368ceafae2f4ddd6bb23",
+    "lines": 741
+  },
+  {
+    "path": "backend/ECONOMICS.md",
+    "bytes": 2943,
+    "sha256": "cb28a29936fc3dc92954d14670425b6ce5d8e5e08e85df7e5083fccbe7403e85",
+    "lines": 19
+  },
+  {
+    "path": "backend/requirements.txt",
+    "bytes": 61,
+    "sha256": "a13db84890f834748d4669795abb771d4448330c806d953b71b53650aaf81e6d",
+    "lines": 4
+  },
+  {
+    "path": "backend/stella_backend/__init__.py",
+    "bytes": 68,
+    "sha256": "dc59232f655f080c8d85895128bf154045804fca62142ec817631ef5a59ebe39",
+    "lines": 2
+  },
+  {
+    "path": "backend/stella_backend/__main__.py",
+    "bytes": 315,
+    "sha256": "58f1b3f508d481d9f1f492ef3a91654300bf76eaf4458907a92d91d98ed6ade9",
+    "lines": 12
+  },
+  {
+    "path": "backend/stella_backend/app.py",
+    "bytes": 16388,
+    "sha256": "f5785bb48425eff1e867da90cba19a3bc0d7831d981379df421bfabc11cc54f0",
+    "lines": 202
+  },
+  {
+    "path": "backend/stella_backend/pricing.py",
+    "bytes": 2530,
+    "sha256": "eea8d1d321389b314e7f13c26c8df67a14df8ef69caee9bf05e21c31efe0d4a1",
+    "lines": 52
+  },
+  {
+    "path": "backend/stella_backend/security.py",
+    "bytes": 1152,
+    "sha256": "8eded36671e35e05e60790b3c9f1801576d238ad10b6e1cb2e8e64a1cbab6df5",
+    "lines": 38
+  },
+  {
+    "path": "backend/stella_backend/store.py",
+    "bytes": 13802,
+    "sha256": "4e7670b254715d8118f8a77370764eee1330f39491c81b6674bf6fbfe980c9c7",
+    "lines": 266
+  },
+  {
+    "path": "backend/tests/test_account_service.py",
+    "bytes": 6653,
+    "sha256": "a2a14c86a7e69550c3ee1267fb521a23bb105811d88a655b64ec00a8efb62082",
+    "lines": 118
+  },
+  {
+    "path": "config.example.json",
+    "bytes": 8492,
+    "sha256": "cb20dcc69dde71eef1a2cfdf3eb6cb4a069fd65c5d75e09d543932180a7d8a53",
+    "lines": 252
+  },
+  {
+    "path": "docs/CARTESIA.md",
+    "bytes": 1393,
+    "sha256": "06da642b2752c4522f16eca0288caa7bb5239776ec4363074265736daccc2c65",
+    "lines": 27
+  },
+  {
+    "path": "docs/CONSUMER_ARCHITECTURE.md",
+    "bytes": 7497,
+    "sha256": "cfee6645d863fcd36029e803b1923856df5a53670ed9c10e84f7bd6fe45c33bc",
+    "lines": 126
+  },
+  {
+    "path": "docs/ELEVENLABS_INTEGRATION.md",
+    "bytes": 6681,
+    "sha256": "8d43a3eb46921c1acfad6cbda53f33e7e1d0a29b53a7dbc31369806f6f6c278e",
+    "lines": 58
+  },
+  {
+    "path": "docs/GREAT_SAGE_IMPLEMENTATION.md",
+    "bytes": 8571,
+    "sha256": "e7155e293a968c3a7d24ccc63afa7c218b701d7103f4231be5182e779e97a5b1",
+    "lines": 72
+  },
+  {
+    "path": "docs/GREAT_SAGE_PACKAGE.md",
+    "bytes": 4178,
+    "sha256": "abd5d103ecd8d702daca312a177f6b5062f34ccc1c638de6f9d86a576155b090",
+    "lines": 39
+  },
+  {
+    "path": "docs/SAGE_REHEARSAL_281c2da2df.md",
+    "bytes": 5042,
+    "sha256": "4ef807affa11936a5f0c05e0f486098f34db79da6578c4d3a8cbdea40ff38c16",
+    "lines": 56
+  },
+  {
+    "path": "docs/STELLA_MOVEMENT_SYSTEM.md",
+    "bytes": 5161,
+    "sha256": "bd99fa24202a920877f988c7b9f4dfa850d79c3c31197e7636bd40461bde170f",
+    "lines": 31
+  },
+  {
+    "path": "docs/STREAM_MEMORY_REVIEW.md",
+    "bytes": 1861,
+    "sha256": "39c1e5e59197960e4f20fcec3ecd7810cf026d8aad00895c293e58d5e11627b6",
+    "lines": 37
+  },
+  {
+    "path": "docs/WARUDO.md",
+    "bytes": 2832,
+    "sha256": "06bd6b397221462c937f2d77760b18ece9c58667af6aacfbca38c9112c3a9b57",
+    "lines": 64
+  },
+  {
+    "path": "main.py",
+    "bytes": 3680,
+    "sha256": "61900e1c03daeee669631beb1ec078399ba52f9796f1da9bce879633b7f73a99",
+    "lines": 113
+  },
+  {
+    "path": "mako/__init__.py",
+    "bytes": 187,
+    "sha256": "7ec1b9997d043f064511c494e8fafdc446dfa7d0334d580c17be60130244e66d",
+    "lines": 6
+  },
+  {
+    "path": "mako/affect.py",
+    "bytes": 13238,
+    "sha256": "dd3d0f4e7cb9316f65f360d7f24fbe2cf1831ccb6f76fd69c5f544874b1623c1",
+    "lines": 292
+  },
+  {
+    "path": "mako/audio_io.py",
+    "bytes": 242,
+    "sha256": "7d9dbd412d048f6e46a7fd93d1d4daa560155eab4e5f0fc1e1ef15e7254e70cc",
+    "lines": 8
+  },
+  {
+    "path": "mako/body.py",
+    "bytes": 25535,
+    "sha256": "f54b6ba79052bad728f31d51a891edcda078e2279215473d0d8e79c3dee02113",
+    "lines": 612
+  },
+  {
+    "path": "mako/call.py",
+    "bytes": 47349,
+    "sha256": "6a46536feae8babfb5153e0c22bb8bea717e521531de8e4c6445a60094247c14",
+    "lines": 1170
+  },
+  {
+    "path": "mako/call_audio.py",
+    "bytes": 1326,
+    "sha256": "8ca5d542bcd918ae87768b2c7575de537a56299c20e998b95294a97e18ceb625",
+    "lines": 49
+  },
+  {
+    "path": "mako/call_continuity.py",
+    "bytes": 18274,
+    "sha256": "c32fbd8df5fbe924b588fe6bf5829706f5ed055397dea8fbde59de9c3f1bae03",
+    "lines": 391
+  },
+  {
+    "path": "mako/call_journal.py",
+    "bytes": 1324,
+    "sha256": "0e1d3eae8f23a164f549f38be902ff5e9e7e226f149bfc2364ff4d4ee63d7b9c",
+    "lines": 40
+  },
+  {
+    "path": "mako/cartesia_voice.py",
+    "bytes": 4014,
+    "sha256": "e7818221d72a55a4ec4101ae525f730aa8a8d02654778188ab64bc704f13309e",
+    "lines": 97
+  },
+  {
+    "path": "mako/config.py",
+    "bytes": 15488,
+    "sha256": "5e6fefacbf558fce6d4d1ccb8a13b37641160b678696481d94299c6aecfe6573",
+    "lines": 414
+  },
+  {
+    "path": "mako/conversation_tracker.py",
+    "bytes": 13545,
+    "sha256": "5963068d6c5472bff5ddd00fd70e853a82244075a39632f30788ec866eb8d33c",
+    "lines": 288
+  },
+  {
+    "path": "mako/core.py",
+    "bytes": 68431,
+    "sha256": "0a40ffbd15040dc7a2f1797b6552bbf8ce4968b832d6be848e74fc574d6b05c5",
+    "lines": 1474
+  },
+  {
+    "path": "mako/dialogue.py",
+    "bytes": 55332,
+    "sha256": "22704c209888e94dc7515b8d412da45589a9e5bea793a36dd3548aa28633dbfe",
+    "lines": 1169
+  },
+  {
+    "path": "mako/discord_adapter.py",
+    "bytes": 1658,
+    "sha256": "f2b8f462b4f592a61c4e0c093b128e41281dab37ea2440fef8cea83ba963ad50",
+    "lines": 47
+  },
+  {
+    "path": "mako/discord_delay_notice.py",
+    "bytes": 2295,
+    "sha256": "2a633465e106ea045811c4e9afd376393cfdcfbab58046267226d7fe6d9fc5ef",
+    "lines": 68
+  },
+  {
+    "path": "mako/discord_service.py",
+    "bytes": 133979,
+    "sha256": "a5131819d09fdc8eee68c8c628a8d76a338f23a4d549d1953b13e5e1c23a98ec",
+    "lines": 2702
+  },
+  {
+    "path": "mako/elevenlabs_discord.py",
+    "bytes": 12319,
+    "sha256": "647ded04b57695c68ee08f3c8dd53ddaf80736b8a8cf2794bdd0d19c310a4943",
+    "lines": 299
+  },
+  {
+    "path": "mako/elevenlabs_voice.py",
+    "bytes": 17319,
+    "sha256": "64172382bb612c9bbdce8f24fc5b9605b572b61f535facc18b107381c94abdc8",
+    "lines": 386
+  },
+  {
+    "path": "mako/interface_events.py",
+    "bytes": 1627,
+    "sha256": "03db98b4ffc3e8e5dcbc1b703d3abccd2685573977890b3205488234f0445df0",
+    "lines": 26
+  },
+  {
+    "path": "mako/inworld_stt.py",
+    "bytes": 13468,
+    "sha256": "70a716de78ae5ad1dbfa6bb9edf46608c12b4c49bc0d1721cd59d552d96046d5",
+    "lines": 335
+  },
+  {
+    "path": "mako/kyutai_stt.py",
+    "bytes": 22557,
+    "sha256": "704dda6874cdecee0c7202807762a542331ceeaecc209fdffed027a93d4bc5e1",
+    "lines": 580
+  },
+  {
+    "path": "mako/ledger.py",
+    "bytes": 11168,
+    "sha256": "a69ac892c793257b4772888b69639617ee7323c7095f2c22b4051bde1cac5543",
+    "lines": 276
+  },
+  {
+    "path": "mako/memory.py",
+    "bytes": 102246,
+    "sha256": "a17f06e38019a7537b54b1121c99a884efffad34db3f4fbc5a4fbfe490447960",
+    "lines": 2161
+  },
+  {
+    "path": "mako/memory_subject.py",
+    "bytes": 2839,
+    "sha256": "6e4ec21068258b885e576d0dda0240c7f7cf7c6a212253a5f653c91c5a2fa55e",
+    "lines": 72
+  },
+  {
+    "path": "mako/model_backend.py",
+    "bytes": 57442,
+    "sha256": "98d40cf0ec03aa13986945b89406a41dd95d60ec3329a48e969af1cd347987c3",
+    "lines": 1272
+  },
+  {
+    "path": "mako/models.py",
+    "bytes": 3439,
+    "sha256": "6b2fb24506eed2055cea61c02974d1a41c987465891939bf3ebfe4d57edaf65e",
+    "lines": 134
+  },
+  {
+    "path": "mako/mood.py",
+    "bytes": 10349,
+    "sha256": "0d2304742ea7821ca1053e08cf3b5f4b5ee5baff5d727e02c57d252446901f36",
+    "lines": 244
+  },
+  {
+    "path": "mako/parakeet_stt.py",
+    "bytes": 10120,
+    "sha256": "bd1628f2df85800e63433c131a37872bc948f7f6c3c752b4d08f7fbdb02639bc",
+    "lines": 248
+  },
+  {
+    "path": "mako/proactive.py",
+    "bytes": 2982,
+    "sha256": "03f69a52813c555941e6bc810e9726e8382d4327f43cac01e8b9d5eb837baea3",
+    "lines": 87
+  },
+  {
+    "path": "mako/prompts.py",
+    "bytes": 13952,
+    "sha256": "c4a4b8924b3ff3b7e43f45310d72472b82bb914ba1bfd7ea3b604ac53d6aa3d5",
+    "lines": 242
+  },
+  {
+    "path": "mako/quality.py",
+    "bytes": 11931,
+    "sha256": "f7cc3e10e3a7f62fb5b89dbad44233368971a522db580f0bb05a5e6f75623cf1",
+    "lines": 360
+  },
+  {
+    "path": "mako/recall_bridge.py",
+    "bytes": 189,
+    "sha256": "0daa82b8a4d7e5bcc2340b71724eb3e23b051589d85a18fa02c3ab596967e2a6",
+    "lines": 6
+  },
+  {
+    "path": "mako/sage/__init__.py",
+    "bytes": 440,
+    "sha256": "9b6370473c0f1d71c9a9acf3ebeeb560575a599e1804bdfe754547d0869f16b3",
+    "lines": 6
+  },
+  {
+    "path": "mako/sage/associative_engine.py",
+    "bytes": 884,
+    "sha256": "6f4db2efa3bfc4d38e8454eb79e96a53ff82b5ea45b02820e78302a99000a5b5",
+    "lines": 14
+  },
+  {
+    "path": "mako/sage/attention.py",
+    "bytes": 954,
+    "sha256": "5f6510dc74f8a5eda0070500517992923a608439583afe97dac221a42e46acb5",
+    "lines": 19
+  },
+  {
+    "path": "mako/sage/chat_queue.py",
+    "bytes": 1483,
+    "sha256": "2b047f19983fbcc79949cc318b44dbc0b3c4d2292a1a50c9aa578544fa2ef2cd",
+    "lines": 39
+  },
+  {
+    "path": "mako/sage/creative_studio.py",
+    "bytes": 1104,
+    "sha256": "548996deee4126893f6e2137be3c97bfbcef8f419a6c41c12187f523d301424e",
+    "lines": 22
+  },
+  {
+    "path": "mako/sage/diagnostics.py",
+    "bytes": 330,
+    "sha256": "44a67be4e1a6e5b61b6de547e68b9145e43d0f053185e8823efdeb30a7c247c8",
+    "lines": 8
+  },
+  {
+    "path": "mako/sage/embodiment.py",
+    "bytes": 915,
+    "sha256": "53a38af87fb4beea488a6186602d19b36fa02fa3e109562e8944dedd45dd53dd",
+    "lines": 16
+  },
+  {
+    "path": "mako/sage/event_bus.py",
+    "bytes": 854,
+    "sha256": "fb6efb51011d05b9e31042bc258c9b809ce23e575ef1a7b9e773b9b646b0b53d",
+    "lines": 18
+  },
+  {
+    "path": "mako/sage/executive.py",
+    "bytes": 3059,
+    "sha256": "be338dc976a78dcccefda491804f6e6027167e13784bce08b658e27764b74594",
+    "lines": 54
+  },
+  {
+    "path": "mako/sage/host.py",
+    "bytes": 21721,
+    "sha256": "d5a1021c8c33c2065669ea154e1b8e409ff927d30441462c6471b936b3b9a6b5",
+    "lines": 395
+  },
+  {
+    "path": "mako/sage/initiative.py",
+    "bytes": 1290,
+    "sha256": "993bfd0b1a39ffedc1479fd68dff5b13240157352cbc891d8006fc009189e097",
+    "lines": 26
+  },
+  {
+    "path": "mako/sage/intentions.py",
+    "bytes": 2175,
+    "sha256": "6d77a2ec10403f4bc998646601d1c4bffb2952d19e4841f15be921b4a9d29ee1",
+    "lines": 37
+  },
+  {
+    "path": "mako/sage/living_state.py",
+    "bytes": 1558,
+    "sha256": "39272cb53fa7e373d33bf2ace0fe23a22b145ccec09f9e6f5cca030de5dbe338",
+    "lines": 32
+  },
+  {
+    "path": "mako/sage/memory_adapter.py",
+    "bytes": 753,
+    "sha256": "5b259f32df167326b8707b653f7ee12721003f76fc0e6faf8546f07af20173cb",
+    "lines": 15
+  },
+  {
+    "path": "mako/sage/model_router.py",
+    "bytes": 801,
+    "sha256": "86eb578a716eade680cf5f4b2f655e7d1a284f608838aba9fc571daf27f432fa",
+    "lines": 15
+  },
+  {
+    "path": "mako/sage/models.py",
+    "bytes": 2691,
+    "sha256": "ddec4f07583f14effd1fcc4bc19a6e7823c800cc5f06e3f5b33240f2baf137fb",
+    "lines": 80
+  },
+  {
+    "path": "mako/sage/performance_budget.py",
+    "bytes": 805,
+    "sha256": "ef215c042b4ebfe2aae583ba0998e23a9df7cf4256e7a22ec01bee4ef3cbc940",
+    "lines": 15
+  },
+  {
+    "path": "mako/sage/persistence.py",
+    "bytes": 1545,
+    "sha256": "ebc308517ab790bd9932baf8e428969fbb917a43735d2724c0f6616960aea1cf",
+    "lines": 30
+  },
+  {
+    "path": "mako/sage/playback.py",
+    "bytes": 2036,
+    "sha256": "dacca1bec0f5093ab4c5d70611e86668fd0a055d622e5455754cefe38b552cb5",
+    "lines": 41
+  },
+  {
+    "path": "mako/sage/relationship_engine.py",
+    "bytes": 950,
+    "sha256": "270e1eb73e77af46999bcfc03fdd00b255941bc73552a1091086db08a17c3095",
+    "lines": 20
+  },
+  {
+    "path": "mako/sage/runtime.py",
+    "bytes": 28700,
+    "sha256": "e5cb685b884da435659869de6458179349d941341c58c9095dfa4a4ce1714572",
+    "lines": 514
+  },
+  {
+    "path": "mako/sage/social_director.py",
+    "bytes": 1020,
+    "sha256": "048ba1ed9d2cf1636994b2c6dc503f94b9e7574a959cf0cd87dcce1f9a82e759",
+    "lines": 17
+  },
+  {
+    "path": "mako/sage/stream_memory.py",
+    "bytes": 2370,
+    "sha256": "34abff823b8f2355cc17b3bffdf817d45337d37169390939d037b4196fd74ced",
+    "lines": 50
+  },
+  {
+    "path": "mako/sage/temporal_coordinator.py",
+    "bytes": 4039,
+    "sha256": "3e6216dc6b20f3e9c19074c80b7a504ba8f8ff5843beeff11d665fb28462fb40",
+    "lines": 68
+  },
+  {
+    "path": "mako/sage/user_mood.py",
+    "bytes": 6122,
+    "sha256": "bbaf1e20a3f069cfb09de8689e7635c1329ae95da4c7067b47bedfb6ba33d344",
+    "lines": 143
+  },
+  {
+    "path": "mako/scheduling.py",
+    "bytes": 4648,
+    "sha256": "79913959fa44f7051c52704aad63a2d430dd59ee077f670c93c4c7d8e3d47c3c",
+    "lines": 130
+  },
+  {
+    "path": "mako/semantic.py",
+    "bytes": 19098,
+    "sha256": "9f92a5a0dc5c4910b9bd5748bebe59af66a4e93d9f0b852081eb83f238157ba0",
+    "lines": 339
+  },
+  {
+    "path": "mako/semantic_routes.py",
+    "bytes": 2176,
+    "sha256": "88483a61a04cd695fbda7bf0da1082653178ef59148b7a5d922d170382e3364d",
+    "lines": 23
+  },
+  {
+    "path": "mako/shell_server.py",
+    "bytes": 23244,
+    "sha256": "6178885feaf766aae7db31ed5e705c6db175306d3716cd6969a419c56c2d1b8d",
+    "lines": 505
+  },
+  {
+    "path": "mako/timing.py",
+    "bytes": 2157,
+    "sha256": "5b79671b973f6c73d24b12615c190bc3e006d472f919ac530694ab0a3229fc30",
+    "lines": 67
+  },
+  {
+    "path": "mako/typing_audio.py",
+    "bytes": 967,
+    "sha256": "b84e01ef1eac01df2be5f6aeb8cb3c3f87fb5aa199975b1ffff4d32c053c3b25",
+    "lines": 37
+  },
+  {
+    "path": "mako/ui.py",
+    "bytes": 43981,
+    "sha256": "4555112cf85cb59b301f5a67978ac4687cf9dfb1f327f57eaae99efd8649a754",
+    "lines": 1179
+  },
+  {
+    "path": "mako/usage.py",
+    "bytes": 5277,
+    "sha256": "cf1e9cd5508fee68f807946c526d9acc53a69ff63930901f14f7c46e2b3d70f8",
+    "lines": 126
+  },
+  {
+    "path": "mako/vision.py",
+    "bytes": 5374,
+    "sha256": "ce35184c5b2b1f27e077145be602734d9935f5f392f1a45892a414c1724596a6",
+    "lines": 137
+  },
+  {
+    "path": "mako/voice.py",
+    "bytes": 94698,
+    "sha256": "87b93b7ea16450be4de8ae3296e4c981eef568ae2704f9e985459b5735723b52",
+    "lines": 2277
+  },
+  {
+    "path": "mako/voice_exchange.py",
+    "bytes": 2157,
+    "sha256": "fbfc65e0cba98eb087eb13c786dddf281fd51e39568e245eb9199cec976e9c1d",
+    "lines": 63
+  },
+  {
+    "path": "mako/xai_realtime_voice.py",
+    "bytes": 20770,
+    "sha256": "e454b186163821e85ebfd269a5bfa5dee874725d59380540987b7e188aea68b2",
+    "lines": 469
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 483,
+    "sha256": "560557fd2249e641eddee26a7b871823d2806f118fe690b3b47279f0f58270eb",
+    "lines": 18
+  },
+  {
+    "path": "tests/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "lines": 0
+  },
+  {
+    "path": "tests/test_affect_pace.py",
+    "bytes": 3183,
+    "sha256": "763e05ed1635e9e8a9a7856163182bbfe578ec5c14a4439deeb8bafa75f2b797",
+    "lines": 71
+  },
+  {
+    "path": "tests/test_audio_cues.py",
+    "bytes": 1766,
+    "sha256": "f27ffb7da182a70d70ebfc1f86393fd3a03d1f1995f2fc7908de72c212acac50",
+    "lines": 58
+  },
+  {
+    "path": "tests/test_authoritative_memory_reply.py",
+    "bytes": 5086,
+    "sha256": "5e29dd27d43f1a92e5546f8121b1bedec7ac1fedf4f92d50c592015f70998faa",
+    "lines": 125
+  },
+  {
+    "path": "tests/test_body_audio.py",
+    "bytes": 5252,
+    "sha256": "5e74e1fcbfc1a238caae192b2dab5bb561846910d309c40e337fe47e425a6c79",
+    "lines": 114
+  },
+  {
+    "path": "tests/test_call.py",
+    "bytes": 9712,
+    "sha256": "ba8f72ddbae40a7ba7314a3b2455327c7758353ecddcde2f3146ccf80e2db903",
+    "lines": 262
+  },
+  {
+    "path": "tests/test_call_continuity.py",
+    "bytes": 24623,
+    "sha256": "5233230800c2ac30643820dcc5be86a6ba31866d909acf83ba63c5f431233764",
+    "lines": 521
+  },
+  {
+    "path": "tests/test_cartesia_voice.py",
+    "bytes": 4895,
+    "sha256": "71718c2bf7ac9132485dd751308214230878fb34ea8471a4f3f63c479eb7a6d1",
+    "lines": 122
+  },
+  {
+    "path": "tests/test_config.py",
+    "bytes": 2075,
+    "sha256": "bf8b65a91d53b002d3d391c11931ddc6f380450547d93007b47184adbfefd88a",
+    "lines": 54
+  },
+  {
+    "path": "tests/test_conversation_tracker_eval.py",
+    "bytes": 3454,
+    "sha256": "37af0096cd3d879bf7aa4011649fff3b39898ee0265eb0ebf600a640cd91e9f7",
+    "lines": 85
+  },
+  {
+    "path": "tests/test_dialogue.py",
+    "bytes": 38851,
+    "sha256": "5f3b9320600f8cc68947f8d164b748c2130b4077170a0487fafc6386d5432aac",
+    "lines": 795
+  },
+  {
+    "path": "tests/test_discord_delay_notice.py",
+    "bytes": 3190,
+    "sha256": "5d33dcf35703600c1ffbfaf245525c76f1c5072d86a548421806dd8b0bad197f",
+    "lines": 86
+  },
+  {
+    "path": "tests/test_discord_recovery.py",
+    "bytes": 7747,
+    "sha256": "2fce8a5cfbee04c05f46000f02c75eccaae82cfc7ed1c101301db42968863504",
+    "lines": 160
+  },
+  {
+    "path": "tests/test_discord_text_reliability.py",
+    "bytes": 6995,
+    "sha256": "958e3cbdf9632e12291abf5db5f653d343fcb8fc7f236ad87e7382b7bdd623f7",
+    "lines": 141
+  },
+  {
+    "path": "tests/test_elevenlabs_voice.py",
+    "bytes": 853,
+    "sha256": "0ad3b22cc66580a4fcfcf60f48badc6bf5adac8af0e425dc0ac7f0cef4f52d1c",
+    "lines": 19
+  },
+  {
+    "path": "tests/test_great_sage_runtime.py",
+    "bytes": 13775,
+    "sha256": "d37849a0fb1cc37ab0f216741e4b17345847974075f9a1564f489e7ca413f96a",
+    "lines": 260
+  },
+  {
+    "path": "tests/test_interface_movement.py",
+    "bytes": 4711,
+    "sha256": "8767062aae82efe7c2e7d1b13fca772319ba9223ef650cd42331337804e0c17e",
+    "lines": 116
+  },
+  {
+    "path": "tests/test_inworld_voice.py",
+    "bytes": 1173,
+    "sha256": "9e5bdb2c85252ff37ac8b3141f675b64a3272e588a216082279a150749593fe1",
+    "lines": 34
+  },
+  {
+    "path": "tests/test_lithos_backend.py",
+    "bytes": 10397,
+    "sha256": "2ed7b7636170433c61720071b0c698d482819319459c74acee5d8a901d8f8132",
+    "lines": 203
+  },
+  {
+    "path": "tests/test_memory.py",
+    "bytes": 25788,
+    "sha256": "9b04abdaad90333c08d823067c431e90a92cf75a01bb1191e6f6d5f97dcb068d",
+    "lines": 507
+  },
+  {
+    "path": "tests/test_memory_subject.py",
+    "bytes": 2316,
+    "sha256": "b168c4ab68698092c24429b475820a6e7ca269a4c4189e884a08886eb682b670",
+    "lines": 57
+  },
+  {
+    "path": "tests/test_mood_eval.py",
+    "bytes": 2882,
+    "sha256": "6aaea87d8dbdd5c3b437d1e8e0635936a7c88996e668f4243f9aac96ee1328cf",
+    "lines": 69
+  },
+  {
+    "path": "tests/test_open_memory_overlay.py",
+    "bytes": 3536,
+    "sha256": "4770af05a134daf395603144ea96d48d9b90dca2ff7985872f52b776fa30ba84",
+    "lines": 76
+  },
+  {
+    "path": "tests/test_persistent_avatar_mood.py",
+    "bytes": 1264,
+    "sha256": "ac97d0d1ec1af001dc4a99673a0486bec9824c68787cd2aefc52569c5d811851",
+    "lines": 35
+  },
+  {
+    "path": "tests/test_proactive.py",
+    "bytes": 1774,
+    "sha256": "a1bc6c661a3a2b799d14ef9015b5d3c6c7998d27c976a0336ed7aa7f5f3028e9",
+    "lines": 45
+  },
+  {
+    "path": "tests/test_prompt_security.py",
+    "bytes": 754,
+    "sha256": "3405a15a713987dd68477bb9d4011d7827b04c8091e15e3c8efa9ea663e45a35",
+    "lines": 21
+  },
+  {
+    "path": "tests/test_quality.py",
+    "bytes": 4163,
+    "sha256": "49e9af9d4398d30c9af9b1f39bb025a51849f3ef3e8f477f6e8c620f98c13b8f",
+    "lines": 108
+  },
+  {
+    "path": "tests/test_recall_bridge.py",
+    "bytes": 495,
+    "sha256": "af6340e85f381d3a1c1e1903cbe4aa7dc5d12828c5b5325a86995cc3d788e078",
+    "lines": 17
+  },
+  {
+    "path": "tests/test_rma_eval.py",
+    "bytes": 8527,
+    "sha256": "1d6f482a47e6571a0935e96c70e98da97c59fda299f862f1e5f94917d6c5e8f7",
+    "lines": 146
+  },
+  {
+    "path": "tests/test_sage.py",
+    "bytes": 3143,
+    "sha256": "2bc3b21f15a036561bb789a7a9ccdcc5e745167fe856f95517e5717a6d425951",
+    "lines": 49
+  },
+  {
+    "path": "tests/test_sage_core_integration.py",
+    "bytes": 3567,
+    "sha256": "8eadb1c24bdbd665aba705996f613f345981b506132afdab50247c8ca71e025b",
+    "lines": 76
+  },
+  {
+    "path": "tests/test_sage_host.py",
+    "bytes": 14936,
+    "sha256": "253d04f4519bad8c29fa10d4bde58df71e105decd74dcbdc34cd94e56a708c81",
+    "lines": 305
+  },
+  {
+    "path": "tests/test_sage_http.py",
+    "bytes": 3787,
+    "sha256": "2e287efa47c7911ef9fd0e277699aad18260c716e5904855549dfa3e585f7d9f",
+    "lines": 77
+  },
+  {
+    "path": "tests/test_sage_idle_motion.py",
+    "bytes": 1436,
+    "sha256": "6ff5608403a32c6bcfba317fa36846811b0ca702c7c96f57b7186e350a44ab7a",
+    "lines": 38
+  },
+  {
+    "path": "tests/test_sage_temporal.py",
+    "bytes": 2537,
+    "sha256": "0b86eb8d7c068eca045f99d0cd074b205e5851d2ba5a401ba5f2daa2677c9337",
+    "lines": 58
+  },
+  {
+    "path": "tests/test_sage_voice_delivery.py",
+    "bytes": 2126,
+    "sha256": "71d8d69a563cd59a9ab539a7fad2fa9d282cfc11e11c499e8dc338742e45c7e9",
+    "lines": 55
+  },
+  {
+    "path": "tests/test_scheduling.py",
+    "bytes": 498,
+    "sha256": "80f939c6a73f308ff4b133347157789dc2b1afbff0c974f2cc9dfeb20c37b21e",
+    "lines": 16
+  },
+  {
+    "path": "tests/test_semantic_eval.py",
+    "bytes": 2630,
+    "sha256": "c306e551a04577f0c0e45d036a0b839301aa03010b26d3652eb843d3b11322b0",
+    "lines": 57
+  },
+  {
+    "path": "tests/test_stream_chat_queue.py",
+    "bytes": 1303,
+    "sha256": "9dbd345c0d4aa805b1f230d15f9f2bb13691eef562062fead4f700fd677a08b0",
+    "lines": 30
+  },
+  {
+    "path": "tests/test_stream_memory.py",
+    "bytes": 2453,
+    "sha256": "03a92dcd6eae221eec22dc3d132054aa3566e2ee4be456319330af2119e1df37",
+    "lines": 52
+  },
+  {
+    "path": "tests/test_stream_persona.py",
+    "bytes": 1166,
+    "sha256": "591faf4dafa5d3f491b1567244e7282996fc95727323ab6e725f33eb4ce7bb7f",
+    "lines": 22
+  },
+  {
+    "path": "tests/test_timing.py",
+    "bytes": 2470,
+    "sha256": "8a85a957f7ab78ddd760af9858363f62df4526155a757e420d3c0a021d9f7646",
+    "lines": 75
+  },
+  {
+    "path": "tests/test_user_mood.py",
+    "bytes": 2652,
+    "sha256": "58b1ca43362a95e52dab710943d4af9d37c3cf29890d0de6874b3986ba8cfac9",
+    "lines": 54
+  },
+  {
+    "path": "tests/test_user_mood_eval.py",
+    "bytes": 2282,
+    "sha256": "21c6153ae55262b33bf9c7ac2a0847a8f46c9bf0bcbfbd6192e4ad849c85affe",
+    "lines": 60
+  },
+  {
+    "path": "tests/test_voice.py",
+    "bytes": 5748,
+    "sha256": "d6e588532d731f09946eb80a96fdbdb44a2251fc4ddce156465b1423ee19fad6",
+    "lines": 149
+  },
+  {
+    "path": "tests/test_voice_exchange.py",
+    "bytes": 1841,
+    "sha256": "a8fa51a5fc06565305294ebfa5403408896435415ef3b6bf0cd33898a1c5348d",
+    "lines": 43
+  },
+  {
+    "path": "tools/Initialize-Cartesia.ps1",
+    "bytes": 722,
+    "sha256": "b3d06c281e118ae9d4e35f2ea1261f21a2ed1ae5f2494355e541c935ad932ec8",
+    "lines": 16
+  },
+  {
+    "path": "tools/Initialize-SageEvents.ps1",
+    "bytes": 404,
+    "sha256": "4482bf590fc7872c7c2a42bcaab52dc6e28a98c37b534a10d2e0f00551061678",
+    "lines": 7
+  },
+  {
+    "path": "tools/Install-KyutaiSttServer.ps1",
+    "bytes": 4889,
+    "sha256": "b111b1a846c3d6248637281be11f66d2c8dce65fce76c3f1534c4e0c61f6f7fb",
+    "lines": 114
+  },
+  {
+    "path": "tools/Run-KyutaiCallFrontendBenchmark.ps1",
+    "bytes": 303,
+    "sha256": "3bfa6558984de0e55c9d276315645e5ca1197635bb6c687825b64f29d256fad8",
+    "lines": 9
+  },
+  {
+    "path": "tools/Run-LastCallLunaReplay.ps1",
+    "bytes": 523,
+    "sha256": "818a19838b6f2336d9348ba97d399d27e9ce8096cbf280cb9efea16d47e129c7",
+    "lines": 11
+  },
+  {
+    "path": "tools/Send-SageEvent.ps1",
+    "bytes": 822,
+    "sha256": "9126359b7a3fa9cac89cd3cf1dd247acb65fa8f930ec2d5ebbae1d611c2f8d4f",
+    "lines": 14
+  },
+  {
+    "path": "tools/Start-KyutaiSttServer.ps1",
+    "bytes": 505,
+    "sha256": "1310d5c65534368e995f23c86720150ded99703d0b0e8e9f410fe14d2ea5872a",
+    "lines": 13
+  },
+  {
+    "path": "tools/benchmark_call_terra_reasoning.py",
+    "bytes": 9821,
+    "sha256": "f7bba8487d58e0077445655e6b4e5e27ffc0b9fdf6eb4972a18ac9427e3a852d",
+    "lines": 216
+  },
+  {
+    "path": "tools/benchmark_discord_terra_low.py",
+    "bytes": 7358,
+    "sha256": "216a4811fb4608cc2eb544a1ad158bd53823fe82c411df50cd12067ae936c132",
+    "lines": 181
+  },
+  {
+    "path": "tools/benchmark_kyutai_call_frontend.py",
+    "bytes": 1674,
+    "sha256": "6c46f97bffce41fb38fcd4012b71aad79895aa70a1912a73618fbe3c58ab3a22",
+    "lines": 54
+  },
+  {
+    "path": "tools/benchmark_last_call_luna.py",
+    "bytes": 5923,
+    "sha256": "125f407130c2e0d13e8205547cc357ac4ed1a2befc7cb0e3f585e9351ed4da37",
+    "lines": 150
+  },
+  {
+    "path": "tools/build_stella_idle_vrma.py",
+    "bytes": 11015,
+    "sha256": "9cf16c779c6cd1f0a328cf2f901761adfb200f39df5b9a21f77e5a40b832aa58",
+    "lines": 231
+  },
+  {
+    "path": "tools/evaluate_stella_discord_participation.py",
+    "bytes": 7824,
+    "sha256": "2601060df6500b09d7fdd0a6aa23522078700a337143b044d33d66a840019964",
+    "lines": 144
+  },
+  {
+    "path": "tools/evaluate_stella_synthetic.py",
+    "bytes": 6591,
+    "sha256": "e567fe8cb6d7c78f6300f7088b5b3dc2a0dfbad4c03cb019f49dd5363115a10c",
+    "lines": 154
+  },
+  {
+    "path": "tools/fetch_movement_assets.py",
+    "bytes": 2640,
+    "sha256": "168a6a424ed405ba3a50e34c3a2f8920172e184022ddcee58fdbfba576160aab",
+    "lines": 49
+  },
+  {
+    "path": "tools/kyutai-stt-batch1.toml",
+    "bytes": 1101,
+    "sha256": "126da18938ef8557fd19a38cfef7d06412f9151b9bf06ef576d414531e667d41",
+    "lines": 47
+  },
+  {
+    "path": "tools/owner_memory_lab.py",
+    "bytes": 11261,
+    "sha256": "5817d471aa4bd200c71097b4d8a261125d1c06e6a951b8d6e1358ace3fd50a61",
+    "lines": 238
+  },
+  {
+    "path": "tools/probe_elevenlabs.py",
+    "bytes": 5081,
+    "sha256": "4b7552939c3cc262b7b65d586f4620d946d95f0bddde65d88c265663b9bac560",
+    "lines": 103
+  },
+  {
+    "path": "tools/resonance_contract_probe.py",
+    "bytes": 6430,
+    "sha256": "5b4811ad1c8fa313022f59464c280c8023843db18912515f72089e7bb20d160c",
+    "lines": 112
+  },
+  {
+    "path": "tools/resonance_intelligence_lab.py",
+    "bytes": 7060,
+    "sha256": "b8616246ee1d87ce5dcea9f9f3a7c6a9aa90304df8bfca9a33bd3059e6e8c4c8",
+    "lines": 118
+  },
+  {
+    "path": "tools/resonance_memory_regression_inventory.py",
+    "bytes": 4857,
+    "sha256": "52c5113e12a539afdb44a4fe6a5351a92bcb7fc7e3fd64012d7140126bd47788",
+    "lines": 116
+  },
+  {
+    "path": "tools/run_resonance_memory_regression.py",
+    "bytes": 4841,
+    "sha256": "029921f9d1e13de92c5be67252d379a055ac9ac478caf60fe9c06b425fae5574",
+    "lines": 77
+  },
+  {
+    "path": "tools/run_sage_rehearsal.py",
+    "bytes": 5497,
+    "sha256": "f7715bdc09660664682ae575e1d0afdd3d817ba1fb594bb5d1148dba0866643b",
+    "lines": 111
+  },
+  {
+    "path": "tools/test_elevenlabs_pipeline.py",
+    "bytes": 2588,
+    "sha256": "a2bd6993c49ce7238897ebe17d46b292c22b2e0aced20aba2b625483234c5961",
+    "lines": 74
+  },
+  {
+    "path": "tools/test_lithos_live.py",
+    "bytes": 1014,
+    "sha256": "c1aa93387dc8800bda8472c029c79f0339a4dcfa223330b352f1f5ab0966e8b5",
+    "lines": 26
+  }
+]
